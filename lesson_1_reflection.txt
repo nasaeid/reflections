@@ -1,0 +1,69 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+  
+  
+having two diffrent lines of code side by side same a lot of time revieing big files that include 100 or thousands of lines 
+ofcode, comparing diffrenace become easy
+
+
+
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    
+
+one of the big chalanges I have faced as programer was version control. having app that will save previous version of
+my code will save me time and space manageing this manually, some times I faced hard time trying to restore proram to previous 
+good working version
+
+
+What do you think are the pros and cons of manually choosing when to create a
+commit, 
+like you do in Git, vs having versions automatically saved, like Google
+docs does?
+
+    
+
+manually choosing to commit allow u to save logical changes together, and ur saves version will not be cluttred by too many small changes.
+but if u forget to save regurally logacily related chunks of code. u could end up by two version have many lines u need to compare to 
+find differences
+
+
+
+Why do you think some version control systems, like Git, allow saving multiple
+files in one commit, while others, 
+like Google Docs, treat each file separately?
+
+  
+
+in code writing we have more than one file needed to be modfied togther, so it will be as one unit. while in goggle docs mostly files are not connected and we can 
+save them spartlly and will not affect each other
+
+
+
+
+How can you use the commands git log and git diff to view the history of files?
+
+    
+
+Git log will list all files in single repository with thier version and what had changed. git diff we can use it to compare two files with diffrent version
+and it will list all lines added or removed from code
+
+
+How might using version control make you more confident to make changes that
+could break something?
+
+    
+
+well if I know that version control will allow me to return back to old version and check at which line the code start break that will give
+me great confidance to go throgh my changes knowiing that I can revert it or find where is the error and fix it
+
+
+
+Now that you have your workspace set up, what do you want to try using Git for?
+
+   
+
+ Fill in your answer here
